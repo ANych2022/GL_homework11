@@ -6,4 +6,5 @@
 
 - I successfully deployed Kubernetes
 
-![kubectl get nodes -o wide](https://user-images.githubusercontent.com/105345932/215200176-83802b1e-d6a0-42a5-8e51-8922d1215e3e.png)
+![kubectl get nodes -o wide2](https://user-images.githubusercontent.com/105345932/215353632-0506b4a0-0c54-42a1-bff8-99736b1eff5e.png)
+
